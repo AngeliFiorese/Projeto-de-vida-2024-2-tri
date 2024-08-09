@@ -1,17 +1,17 @@
-const caixaPrincipal = document.querySelector(“.caixa -
-    principal”);
+const caixaPrincipal = document.querySelector
+    (“.caixa_principal”);
 
-const caixaPerguntas = document.querySelector(“.caixa -
-    perguntas”);
+const caixaPerguntas = document.querySelector
+    (“.caixa_perguntas”);
 
-const caixaAlternativas = document.querySelector(“.caixa -
-    alternativas”);
+const caixaAlternativas = document.querySelector
+    (“.caixa_alternativas”);
 
-const caixaResultado = document.querySelector(“.caixa -
-    resultado”);
+const caixaResultado = document.querySelector
+    (“.caixa_resultado”);
 
-const textoResultado = document.querySelector(“.texto -
-    resultado”);
+const textoResultado = document.querySelector
+    (“.texto_resultado”);
 
 const perguntas = [
     {
